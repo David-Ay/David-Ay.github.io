@@ -1,0 +1,120 @@
+body{font-family:arial, verdana, sans-serif, monospace;
+     background-image:url('haaku.gif');
+     background-color:black;
+     font-size:22pt;
+     color:white;
+     margin:0px;}
+     
+p#top{color:black}
+     
+div#titlediv{background-image:url("/storage/emulated/0/Pictures/Screenshot/Screenshot_20220716-211124.jpg");}
+  
+   h1#title{
+      border:solid red 5px;
+      background-color:orange;
+      border-radius: 10in;
+      text-align:center;
+      width:770;
+      height:430;}
+table{
+     border-left: ;
+     border-top:;
+     border-bottom:;
+     border-right:;
+     background-color:;
+     text-align:left;
+     cellspacing:20px;
+     width: 960px;
+     height: 700px;
+     font-size:28pt;
+     color:white;}
+
+th{border:solid black;}
+
+td{border:;}
+
+th#yahikos{background-color:;
+           width:;
+           height:;}
+td#spec{background-color:;}
+td#fiv{background-color:;}
+td#twe{background-color:;}
+td#six{background-color:;}
+
+th#kakashis{background-color:;}
+td#ka{background-color:;}
+td#tor{background-color:;}
+td#up{background-color:;}
+td#mil{background-color:;}
+
+th#sasoris{background-color:;}
+td#sas{background-color:;}
+td#inc{background-color:;}
+td#pou{background-color:;}
+td#hou{background-color:;}
+
+th#narutos{background-color:;}
+td#nar{background-color:;}
+td#noi{background-color:;}
+td#mac{background-color:;}
+td#bou{background-color:;}
+
+th#des{background-color:;}
+th#size{background-color:;}
+th#w{background-color:;}
+th#sp{background-color:;}
+      
+p#para2{background-color:;}
+      
+h2{font-size:28pt;
+    text-align:center;}
+a{text-align:center;
+ font-wight:bold;
+ font-family:monospace, arial;
+ text-decoration:none;
+ font-size:27pt;}
+ a:link{color:purple;
+ }
+ a:visited{color:brown;
+ }
+ a:hover{font-family: “Comic Sans MS”;
+color:#0000FF;
+ }
+ a:active{color:#999999;
+ }
+ a#back:link{color:purple;
+             background-color:; 
+             border-radius: 28px;
+             border:double;
+             border-width:8px;
+             padding:5px;
+             font-size:;}
+ 
+  
+ a#back:visited{color:27pt;
+         border:none;}
+ a#back:hover{color:black;
+              background-color:yellow;}
+ a#back:active{color:green;
+               border:;}
+ a#back{margin:5px 350px 5px 350px;}
+ 
+ div#firstdiv{background-image:url('/storage/emulated/0/web/Images/Screenshot_20220627-102443.jpg');
+              background-image-width:960px;
+              background-image-height:px;}
+              
+i#ad{color:yellow;
+     margin-left:20px;}
+b#home{margin-left:350px;
+       color:yellow;}
+b#about{margin-left:15px;
+        color:yellow;}
+b#contact{margin-right:15px;
+          color:;}
+
+h1#heading{margin:160px 350px 0px 150px;
+           color:yellow;}
+p#firstpar{color:yellow;
+           margin:5px 0px 0px 150px;}
+           
+ p#sub{background-color:green;}  
